@@ -2,4 +2,4 @@
 
 name = "Ethan"
 
-puts "Hello #{name}!"
+puts "Hello #{name}"
